@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![REX's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexx4314&count_private=true&show_icons=true&theme=dark)](https://github.com/rexx4314)
+[![REX's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexx4314&count_private=false&show_icons=true&theme=dark)](https://github.com/rexx4314)
 
 <!--
 **rexx4314/rexx4314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
