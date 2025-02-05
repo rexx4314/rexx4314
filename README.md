@@ -8,11 +8,11 @@ I specialize in:
 - **Cloud Native Architecture**
 - **MSA Consulting & Open Source Expertise**
 
-With extensive experience in modern cloud technologies and open source projects, I focus on building scalable, efficient, and innovative solutions. I actively contribute to various projects on GitHub, and I'm always eager to collaborate, learn, and drive technological advancements.
-
-Your follows and stars always mean so much to me!
+I'm highly experienced in modern cloud technologies and open-source projects, building scalable, efficient, and innovative solutions. I actively contribute to various projects on GitHub, and I'm always eager to collaborate, learn, and drive technological advancements.
 
 [![REX's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexx4314&count_private=false&show_icons=true&theme=dark)](https://github.com/rexx4314)
+
+**Your follows and stars always mean so much to me!**
 
 <!--
 **rexx4314/rexx4314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
