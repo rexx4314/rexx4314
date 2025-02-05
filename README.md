@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello, and Welcome! 👋
+
+I'm REX.
+
+I specialize in:
+- **Full-Stack Development**
+- **Cloud DevOps Engineering**
+- **Cloud Native Architecture**
+- **MSA Consulting & Open Source Expertise**
+
+With extensive experience in modern cloud technologies and open source projects, I focus on building scalable, efficient, and innovative solutions. I actively contribute to various projects on GitHub, and I'm always eager to collaborate, learn, and drive technological advancements.
+
+Your follows and stars always mean so much to me!
 
 [![REX's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexx4314&count_private=false&show_icons=true&theme=dark)](https://github.com/rexx4314)
 
