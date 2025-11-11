@@ -3,10 +3,11 @@
 I'm REX.
 
 I specialize in:
-- **Full-Stack Development**
-- **Cloud DevOps Engineering**
 - **Cloud Native Architecture**
-- **MSA Consulting & Open Source Expertise**
+- **Full-Stack & Full-Cycle Development**
+- **MSA Consulting**
+- **Cloud DevOps Engineering**
+- **Open Source Expertise**
 
 I'm highly experienced in modern cloud technologies and open-source projects, building scalable, efficient, and innovative solutions. I actively contribute to various projects on GitHub, and I'm always eager to collaborate, learn, and drive technological advancements.
 
