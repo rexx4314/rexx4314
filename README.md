@@ -11,7 +11,9 @@ I specialize in:
 
 I'm highly experienced in modern cloud technologies and open-source projects, building scalable, efficient, and innovative solutions. I actively contribute to various projects on GitHub, and I'm always eager to collaborate, learn, and drive technological advancements.
 
+<!--
 [![REX's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexx4314&count_private=false&show_icons=true&theme=dark)](https://github.com/rexx4314)
+-->
 
 **Your follows and stars always mean so much to me!**
 
